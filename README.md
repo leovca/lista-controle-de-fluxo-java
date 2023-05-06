@@ -1,4 +1,4 @@
-# Atividade: Estrutura Sequêncial
+# Atividade: Controle de Fluxo
 
 ## Orientações
 
