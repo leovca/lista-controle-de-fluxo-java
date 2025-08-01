@@ -1,4 +1,4 @@
-# Atividade: Controle de Fluxo
+# Atividade: Variáveis e Controle de Fluxo
 
 ## Orientações
 
